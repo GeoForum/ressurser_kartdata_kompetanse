@@ -1,5 +1,7 @@
 # Ressurser knyttet til åpne kartdata og åpen kartteknologi
 
+**Meld din interesse her: http://goo.gl/forms/N0HAKzepcQ**
+
 ## Organisasjoner og tilsvarende
 * GeoForum http://www.geoforum.no/
 * Geomatikkbransjen http://geomatikkbransjen.no/
