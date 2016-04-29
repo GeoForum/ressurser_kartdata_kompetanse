@@ -22,15 +22,15 @@
 * 
 
 ## Ekspertliste
-Navn	Arbeidsgiver	Mail	Svarer på
-Alexander Nossum	Norkart	alexander.nossum@norkart.no	Programvare og kartdata
-Steffen P. Henriksen	Geodata	steffen.PohnerHenriksen@geodata.no	Programvare
-Atle Sveen	Norkart	atle.frenvik.sveen@norkart.no	Programvare, data, hacking
-Øystein Dokken	Kartverket	oystein.dokken@kartverket.no	Kartdata
-Robert Nordan	Norkart	robert.nordan@norkart.no	Maptime
-Tomas Holtan	Kartverket	Tomas.martin.holtan@kartverket.no	Programvare og kartdata
-Espen O. Lund	Kresendo	espen@kresendo.no	Openstreetmap, apper, data
-Terje Midtbø	NTNU	terjem@ntnu.no	Utdanning, visualisering, akademisk
-Thomas Hirsch	Kartverket	Thomas.hirsch@kartverket.no	Programvare, hacking, dataflyt, standarder
-Tore Halset	ECC	Tore.halset@ecc.com	Sjøkart, hacking
-Jarle Pedersen	Kartverket	Jarle.pedersen@kartverket.no	Hacking, dataflyt
+| Navn                    | Arbeidsgiver        | Mail                                | Svarer på
+|-------------------------|---------------------|-------------------------------------|-------------------------------
+| Alexander Nossum	      | Norkart	            | alexander.nossum@norkart.no	        | Programvare og kartdata
+| Steffen P. Henriksen    | Geodata	            | steffen.PohnerHenriksen@geodata.no  | Programvare
+| Atle Sveen              | Norkart	            | atle.frenvik.sveen@norkart.no	      | Programvare, data, hacking
+| Øystein Dokken	        | Kartverket	        | oystein.dokken@kartverket.no	      | Kartdata
+| Robert Nordan	          | Norkart	            | robert.nordan@norkart.no	          | Maptime
+| Tomas Holtan	          | Kartverket	        | Tomas.martin.holtan@kartverket.no	  | Programvare og kartdata
+| Espen O. Lund	          | Kresendo            | espen@kresendo.no	                  | Openstreetmap, apper, data
+| Terje Midtbø	          | NTNU	              | terjem@ntnu.no	                    | Utdanning, visualisering, akademisk
+| Tore Halset	            | ECC	                | Tore.halset@ecc.com	                | Sjøkart, hacking
+| Jarle Pedersen          | Kartverket          | Jarle.pedersen@kartverket.no        | Hacking, dataflyt
